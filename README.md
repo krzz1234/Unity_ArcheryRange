@@ -6,4 +6,5 @@ The purpose of this project is to gain more experience with the Unity Physics En
 Detection methods. 
 
 To move around: use arrow key on your keyboard
+
 To shoot the arrow: click left mouse button
